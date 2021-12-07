@@ -1,0 +1,25 @@
+﻿  PolyCal.cpp
+c:\users\mostafabesher000\source\repos\polynomialcalculator\polynomialcalculator\polycal.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\mostafabesher000\source\repos\polynomialcalculator\polynomialcalculator\polycal.cpp(68): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\mostafabesher000\source\repos\polynomialcalculator\polynomialcalculator\polycal.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\mostafabesher000\source\repos\polynomialcalculator\polynomialcalculator\polycal.cpp(234): warning C4244: '=': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\mostafabesher000\source\repos\polynomialcalculator\polynomialcalculator\polycal.cpp(248): warning C4244: '=': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\mostafabesher000\source\repos\polynomialcalculator\polynomialcalculator\polycal.cpp(263): warning C4244: '=': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\mostafabesher000\source\repos\polynomialcalculator\polynomialcalculator\polycal.cpp(362): warning C4018: '<': signed/unsigned mismatch
+c:\users\mostafabesher000\source\repos\polynomialcalculator\polynomialcalculator\polycal.cpp(400): warning C4018: '<': signed/unsigned mismatch
+c:\users\mostafabesher000\source\repos\polynomialcalculator\polynomialcalculator\polycal.cpp(466): warning C4018: '<': signed/unsigned mismatch
+c:\users\mostafabesher000\source\repos\polynomialcalculator\polynomialcalculator\polycal.cpp(577): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PolynomialCalculator.vcxproj -> C:\Users\mostafabesher000\source\repos\PolynomialCalculator\Debug\PolynomialCalculator.exe
